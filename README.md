@@ -1,2 +1,2 @@
 # AppAngular
-SPA en Anguar
+SPA en Angular
