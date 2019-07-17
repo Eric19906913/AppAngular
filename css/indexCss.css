@@ -1,0 +1,38 @@
+
+/* esto es para que la list este a la derecha */
+#listHeader{
+  list-style-type: none;
+  text-align: right;
+  background-position: 100%;
+  padding-right: 5%;
+}
+
+/* esto es para que el header no scrollee */
+.headerContent{
+  width:100%;
+  position:sticky;
+  height:50px;
+  margin-top: 0px; /*not working*/
+  background: lightblue;
+
+}
+
+.divMenu{
+  padding-top: 13px;
+  /* position: relative; */
+  left:70%;
+  responsive:
+
+}
+
+/* esto es para que los span del header este horizontal */
+.menuHeader{
+  display: inline;
+  padding: 7px;
+
+}
+
+/* esto es para que el div que sigue al header no se superponga */
+#divInicio{
+  margin-top:70px;
+}
